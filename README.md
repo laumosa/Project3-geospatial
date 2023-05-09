@@ -15,7 +15,10 @@ The goal of this project is to find a location for the new company offices to gr
 Find those companies that meet as many requirements as possible, then select the most suitable one and take its coordinates as the reference for the location of the new company.
 
 ## Steps
-1. Within the Mongo DB collection named "companies"
+1. Within the Mongo DB collection named "companies", select those companies that have raised at least 1 Million dollars and do design.
+2. Count the number of companies by country and select USA as the chosen ubication, since its the most frequent country by far.
+3. Count the number of companies by state and limit the companies located in the 4 most frequent states. Those states are New York, California, Florida and Illinois.
+4. 
 
 
 
