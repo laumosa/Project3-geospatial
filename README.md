@@ -30,7 +30,7 @@ Find those companies that meet as many requirements as possible, then select the
 8. Map the 5 companies that meets most of the requirements.
 
 ## Conclusions
-The resulting 5 companies are located in the New York state (3) and in California (2). The company "Netbiscuits" meets most of the requirements. In a radious of 500 metres from the mentioned company there are 10 vegan restaurants, 3 preschools, 8 starbucks and 10 night clubs. Also 
+The resulting 5 companies are located in the New York state (3) and in California (2). The company "Netbiscuits" (red circle) meets most of the requirements. In a radious of 500 metres from the mentioned company there are 10 vegan restaurants, 3 preschools, 8 starbucks and 10 night clubs. Also 
 
 **New York companies**
 ![image](https://user-images.githubusercontent.com/83134591/236972288-9b82394a-7253-45a2-9b00-ecca21b6d413.png)
@@ -38,7 +38,3 @@ The resulting 5 companies are located in the New York state (3) and in Californi
 
 **California companies**
 ![image](https://user-images.githubusercontent.com/83134591/236972165-74dd3b60-5410-4832-a5c6-56568bdd3359.png)
-
-
-
-
